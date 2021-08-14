@@ -1,0 +1,16 @@
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\bin\Debug\net5.0\BusinessHourCalculator.exe
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\bin\Debug\net5.0\BusinessHourCalculator.deps.json
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\bin\Debug\net5.0\BusinessHourCalculator.runtimeconfig.json
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\bin\Debug\net5.0\BusinessHourCalculator.runtimeconfig.dev.json
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\bin\Debug\net5.0\BusinessHourCalculator.dll
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\bin\Debug\net5.0\ref\BusinessHourCalculator.dll
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\bin\Debug\net5.0\BusinessHourCalculator.pdb
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\obj\Debug\net5.0\BusinessHourCalculator.csproj.AssemblyReference.cache
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\obj\Debug\net5.0\BusinessHourCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\obj\Debug\net5.0\BusinessHourCalculator.AssemblyInfoInputs.cache
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\obj\Debug\net5.0\BusinessHourCalculator.AssemblyInfo.cs
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\obj\Debug\net5.0\BusinessHourCalculator.csproj.CoreCompileInputs.cache
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\obj\Debug\net5.0\BusinessHourCalculator.dll
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\obj\Debug\net5.0\ref\BusinessHourCalculator.dll
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\obj\Debug\net5.0\BusinessHourCalculator.pdb
+C:\Users\acsankar\source\repos\BusinessHourCalculator\BusinessHourCalculator\obj\Debug\net5.0\BusinessHourCalculator.genruntimeconfig.cache
